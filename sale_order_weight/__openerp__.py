@@ -8,7 +8,7 @@
     'description': """
 This module adds products weight in report for sale.order.
 """,
-    'author': 'Apulia Software',
+    'author': 'Apulia Software, Odoo Community Association (OCA)',
     'website': 'http://www.odoo-community.org',
     'license': 'GPL-3',
     'depends': [
